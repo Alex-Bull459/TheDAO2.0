@@ -13,7 +13,7 @@ Success will be marked if this organisation will meet those milestones:
 
  1. **Formation** - grouping individuals by common interest, collaborating and incentivised by fair contract)
  2. **Production** - individuals performing each his own duty, resulting in an assembled output
- 3. **Distributing** - goods/outputs should be delivered to the crowd 
+ 3. **Distribution** - goods/outputs should be delivered to the crowd 
  4. **Sustainability** - goods/outputs should produce income in return, this income should be payed as reword for participating individuals and enabling growth
  5. **Growth** - the organisation should incrementally grow it's participating individuals and income
 
