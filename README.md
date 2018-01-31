@@ -3,7 +3,7 @@
 TheDAO2.0 is an evolution of human organisation which is based on pseudoanonymous participation, digital contracts and decentralization.
 
 ## Background
-Get some background about what DAO is: https://en.wikipedia.org/wiki/The_DAO_(organization).
+Get some background about what DAO is: https://en.wikipedia.org/wiki/The_DAO_(organization).  
 Essentially, TheDAO v1 failed. Although it did succeed to prove that it is possible and there is something in it. Just like the first attempts for aero flight failed in crash.
 TheDAO2.0 aims to overcome the mistakes that were done in v1 and attempt to build a more professional and solid protocol for future DAOs.
 TheDAO2.0 will attempt to be the first working decentralised, autonomous and code-based contracts organisation in the world.
